@@ -1,0 +1,116 @@
+ body{
+    background-image: url("background.jpg");
+    background-color: #cccccc;
+    background-size:2200px 3500px;
+    background-position:center ;
+    font-family:times new roman;
+    font-size:19px;
+    color:mintcream;
+    line-height:50px;
+    border:25px solid aqua;
+    border-radius:50px;
+    padding:12px 2px 12px 2px;
+ }
+.gold-colour{
+    color:cyan;
+ }
+.half-width{
+    width:45%;
+    float:left;  
+}
+.side-img{
+    width:34%;
+    padding-left:20%;
+    padding-top:75px;
+    padding-right:25%;
+}
+.primary-btn{
+    color: darkorchid ;
+    background-image:url("6.jpg");
+    background-size: 450px 100px;
+    padding:13px 50px 13px 50px;
+    border-radius:20px ;
+    text-decoration:none ;
+}
+h1{
+  font-size:3.5em ;
+}
+.container{
+    padding-left: 5%;
+    display: inline-block;
+}
+h2{
+  font-size:3.2em ;
+}
+.white-colour{
+    color:azure;
+}
+.purple-colour{
+    color: palegoldenrod;
+}
+p{
+ font-size:2.5em ;
+}
+h3{
+ font-size:2.9em ;
+}
+h4{
+ font-size:2.5em ;
+}
+ .experiences{
+    padding: 30px;
+    margin: 20px;
+    background-color:none;
+    border-radius: 20px;
+ }
+ .experience-item{
+    padding: 10px;
+    border-left: 10px solid rgba(137, 130, 255,.5);
+}
+.frost-colour{
+    color:frost;
+}
+ footer{
+    font-size:13px;
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

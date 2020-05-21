@@ -1,15 +1,15 @@
  body{
     background-image: url("background.jpg");
     background-color: #cccccc;
-    background-size:2200px 3500px;
+    background-size:2600px 4370px;
     background-position:center ;
     font-family:times new roman;
     font-size:19px;
     color:mintcream;
     line-height:50px;
     border:25px solid aqua;
-    border-radius:50px;
-    padding:12px 2px 12px 2px;
+    border-radius:70px;
+    padding:7px 2px 7px 2px;
  }
 .gold-colour{
     color:cyan;
@@ -65,7 +65,7 @@ h4{
  }
  .experience-item{
     padding: 10px;
-    border-left: 10px solid rgba(137, 130, 255,.5);
+    border-left: 10px solid rgba(247, 130, 430,.5);
 }
 .frost-colour{
     color:frost;
@@ -73,9 +73,20 @@ h4{
  footer{
     font-size:13px;
  }
-
-
-
+ .achievment-item{
+    padding: 10px;
+    border-left: 10px solid rgba(300, 310, 180,.5);
+}
+  .achievements{
+    padding: 30px;
+    margin: 20px;
+    background-color:none;
+    border-radius: 20px;
+ } 
+.realpurple-colour{
+    color: purple;
+}
+ 
 
 
 
